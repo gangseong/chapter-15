@@ -1,0 +1,5 @@
+﻿  mytime2.cpp
+c:\users\chldu\source\repos\chapter10_3\chapter10_3\mytime2.cpp(56): warning C4244: '초기화 중': 'double'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  usetime2.cpp
+  코드를 생성하고 있습니다...
+  chapter10_3.vcxproj -> C:\Users\chldu\source\repos\chapter10_3\Debug\chapter10_3.exe
